@@ -4,6 +4,9 @@
 
 This project demonstrates how to host a personal portfolio website using Amazon S3 for static website hosting and Amazon CloudFront for content delivery and HTTPS support. The project leverages AWS cloud services to ensure the portfolio is globally accessible, secure, and fast. ✨
 
+## Architecture
+![Screenshot 2025-01-14 232847](https://github.com/user-attachments/assets/54b084ce-5289-42fa-86f1-c4aced1ec84c)
+
 ## Features
 
 - Hosted the personal portfolio website on Amazon S3 for global accessibility. 🌎
@@ -47,3 +50,6 @@ git clone [https://github.com/](https://github.com/)<your-username>/personal-por
 
 - Amazon Web Services (AWS) for providing the necessary cloud infrastructure. 👍
 - CloudFront for enabling global content delivery. 🌎
+
+## Instructor
+This project was guided by **Rajdeep Saha**, who provided valuable mentorship throughout the process.
